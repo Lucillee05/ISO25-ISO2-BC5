@@ -6,7 +6,7 @@ Fase PUD: Inicio (Iteración 0)
 
 
 Orden del Día:
-1. Revisión del enunciado del proyecto “Gestión de Biblioteca Universitaria”*.  
+1. Revisión del enunciado del proyecto “Gestión de Biblioteca Universitaria”.  
 2. Asignación inicial de roles y responsabilidades dentro del equipo.  
 3. Definición de los primeros requisitos funcionales y posibles casos de uso.  
 4. Estimación preliminar de iteraciones y costes según el Proceso Unificado de Desarrollo (PUD).  
@@ -27,7 +27,7 @@ Tareas de cada participante en el proyecto (Nº. Tarea - Responsable - Fecha lí
 1. Crear el repositorio 2025-ISO2-BC1 (privado) y añadir a todos los miembros - Lucía - 13/10/2025 
 2. Subir estructura inicial (carpetas docs, iterations, diagrams, src) - Mariam - 15/10/2025 
 3. Definir tabla de iteraciones y calendario del Bloque 1 - Noelia - 17/10/2025 
-4. Redactar documento Planificación_PUD.pdf - Mariam - 20/10/2025 
+4. Redactar documento Planificación_PUD.pdf - Mariam - 20/10/2025
 5. Configurar tablero Kanban “Bloque 1 – Planificación PUD” - Manuel - 21/10/2025 
 6. Crear issues y asignarlos a los miembros del equipo - Roberto - 21/10/2025 
 7. Revisar la documentación y comunicarse con el profesor para resolver dudas - Carlos - 22/10/2025 
