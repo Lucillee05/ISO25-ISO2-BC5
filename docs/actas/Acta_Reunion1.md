@@ -24,7 +24,7 @@ Responsables del proyecto:
 
 
 Tareas de cada participante en el proyecto (Nº. Tarea - Responsable - Fecha límite):
-1. Crear el repositorio 2025-ISO2-BC1 (privado) y añadir a todos los miembros - Lucía - 13/10/2025 
+1. Crear el repositorio 2025-ISO2-BC1 (privado) y añadir a todos los miembros - Lucía - 15/10/2025 
 2. Subir estructura inicial (carpetas docs, iterations, diagrams, src) - Mariam - 15/10/2025 
 3. Definir tabla de iteraciones y calendario del Bloque 1 - Noelia - 17/10/2025 
 4. Redactar documento Planificación_PUD.pdf - Mariam - 20/10/2025
