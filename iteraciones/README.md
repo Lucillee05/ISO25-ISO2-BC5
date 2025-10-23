@@ -16,15 +16,15 @@ Requisitos, Análisis, Diseño, Implementación y Pruebas (RADIP).
 
  Req# | CDU   | Prioridad | Requisitos | Análisis | Diseño | Implementación | Pruebas |
  
- RF.1 | CDU.1 |    1     | 6 | 10 | 22 | 60 | 8 |
+ RF.1 | CDU.1 |    1      |     6      |    10    |   22   |       60       |    8    |
  
- RF.2 | CDU.2 |    2     | 5 | 8 | 18 | 45 | 7 |
+ RF.2 | CDU.2 |    2      |     5      |    8     |   18   |       45       |    7    |
  
- RF.3 | CDU.3 |    2     | 4 | 7 | 16 | 40 | 6 |
+ RF.3 | CDU.3 |    2      |     4      |    7     |   16   |       40       |    6    |
  
- RF.4 | CDU.4 |    3     | 3 | 6 | 14 | 35 | 6 |
+ RF.4 | CDU.4 |    3      |     3      |    6     |   14   |       35       |    6    |
  
- RF.5 | CDU.5 |    3     | 3 | 5 | 12 | 30 | 5 |
+ RF.5 | CDU.5 |    3      |     3      |    5     |   12   |       30       |    5    |
 
 Tabla 2. Casos de uso, prioridad y esfuerzo estimado por disciplina (PUD).
 
