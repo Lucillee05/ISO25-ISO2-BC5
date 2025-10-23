@@ -1,11 +1,11 @@
 1. Fases e hitos del PUD
 El PUD se estructura en cuatro fases principales, cada una con objetivos, actividades y entregables específicos:
 
-Fase | Hito  
-Inicio | Definición del alcance del proyecto, requisitos principales y estimación inicial de costes. 
-Elaboración | Diseño de la arquitectura general del sistema y validación de los casos de uso críticos. 
+Fase         | Hito  
+Inicio       | Definición del alcance del proyecto, requisitos principales y estimación inicial de costes. 
+Elaboración  | Diseño de la arquitectura general del sistema y validación de los casos de uso críticos. 
 Construcción | Desarrollo de los módulos principales del sistema (casos de uso funcionales). 
-Transición | Integración final, ejecución de pruebas globales y despliegue del sistema. 
+Transición   | Integración final, ejecución de pruebas globales y despliegue del sistema. 
 
 Tabla 1. Hitos en cada fase del Proceso Unificado de Desarrollo (PUD)
 
