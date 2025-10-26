@@ -1,5 +1,6 @@
 | Reunión | Fecha | Enlace | Temas tratados 
 
 | Reunión 1 | 15/10/2025 | [Acta_Reunion1.md](Acta_Reunion1.md) | Creación del repo y planificación inicial
-| Reunión 2 | 23/10/2025 | [Acta_Reunion2.md](Acta_Reunion2.md) | Creación del repo y planificación inicial
+
+| Reunión 2 | 23/10/2025 | [Acta_Reunion2.md](Acta_Reunion2.md) | Creación de la Wiki y  planificación
 
