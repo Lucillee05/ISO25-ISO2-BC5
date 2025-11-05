@@ -26,5 +26,5 @@ Elaboración del calendario de trabajo (según las horas estimadas anteriormente
 
 Observaciones y Supuestos:
 
-Los compañeros Roberto Martinez y Manuel Martin no han podido asistir a la reunión, por lo que se les ha delegado la gestion de calidad y la gestión de 
+Los compañeros Roberto Martínez y Manuel Martín no han podido asistir a la reunión, por lo que se les ha delegado la gestion de calidad y la gestión de 
 configuración respectivamente.
