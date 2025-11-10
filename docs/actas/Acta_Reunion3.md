@@ -25,10 +25,17 @@ Manuel Martín: Gestor de configuración/Tester (Ausente)
 Roberto Martínez: Soporte técnico/Tester (Ausente)
 
 
+Llevado a cabo: 
+
 Extracción de los requisitos funcionales, no funcionales y casos de uso: 1- Lucía Solís. 
+
 Desarrollo de los casos de uso (10 casos de uso critico seleccionados): 2 - Lucía Solís y Noelia Sánchez. 
-Tablas de planificacion de iteraciones (estimación de horas y costes): 3 - Carlos Soto, Mariam Tamayo y Noelia Sánchez. 
+
+Tablas de planificacion de iteraciones (estimación de horas y costes): 3 - Carlos Soto, Mariam Tamayo y Noelia Sánchez.
+
 Elaboración del calendario de trabajo (según las horas estimadas anteriormente): 4 - Mariam Tamayo y Carlos Soto.
+
+
 
 Observaciones y Supuestos:
 
