@@ -12,12 +12,12 @@ Elaboración del calendario de trabajo.
 
 Responsables del proyecto:
 
-Noelia Palomino: Gestora del Proyecto
-Manuel Martín: Desarrollador principal
-Mariam Tamayo: Responsable técnica / Documentación
-Roberto Martínez: Ingeniero de pruebas / QA
-Carlos Soto: Diseñador de arquitectura
-Lucía Solis: Coordinadora general / Responsable de comunicación con el profesor. (Ausente, informada del contenido de la reunión)
+Noelia Palomino: Responsable de calidad, gestora de requisítos y análisis
+Manuel Martín: Gestor de configuración/Tester
+Mariam Tamayo: Diseñadora e implementadora
+Roberto Martínez: Soporte técnico/Tester
+Carlos Soto: Diseñador e implementador
+Lucía Solis: Coordinadora, gestora de requisitos y análisis
 Tareas de cada participante en el proyecto (Nº. Tarea - Responsable - Fecha límite):
 
 Desarrollo de los casos de uso (10 casos de uso critico seleccionados): 1 - Noelia Palomino - 07/11/25
