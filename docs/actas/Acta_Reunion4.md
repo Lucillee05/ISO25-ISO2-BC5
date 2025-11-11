@@ -32,12 +32,22 @@ Carlos Soto: Diseñador de arquitectura
 
 Lucía Solis: Coordinadora general / Responsable de comunicación con el profesor. 
 
+
 Tareas de cada participante en el proyecto (Nº. Tarea - Responsable - Fecha límite):
 
 Correccion de las iteraciones del proyecto: 1 - Mariam Tamayo y Carlos Soto - 11/11/25
+
 Rellenar las tablas del proyecto y rellenar el calendario: 2 - Noelia Palomino y Lucia Solis - 11/11/25
+
 Creacion del driagrama de uso en la plataforma Visual Paradigm: 3 - Roberto Martínez - 11/11/25
+
 Creacion de isues: 4 - Roberto Martínez y Manuel Martin - 11/11/25
+
 Creacion del acta: 5 - Manuel Martin - 11/11/25
+
+
+Observaciones:
+ 
+La compañera Mariam Tamayo se fue de la reunión sobre la 19:30.
 
 
