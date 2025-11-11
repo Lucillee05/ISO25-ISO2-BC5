@@ -21,10 +21,15 @@ Correccion de errores relacionados con las iteraciones del trabajo.
 Responsables del proyecto:
 
 Noelia Palomino: Gestora del Proyecto
+
 Manuel Martín: Desarrollador principal
+
 Mariam Tamayo: Responsable técnica / Documentación
+
 Roberto Martínez: Ingeniero de pruebas / QA
+
 Carlos Soto: Diseñador de arquitectura
+
 Lucía Solis: Coordinadora general / Responsable de comunicación con el profesor. 
 
 Tareas de cada participante en el proyecto (Nº. Tarea - Responsable - Fecha límite):
@@ -34,3 +39,5 @@ Rellenar las tablas del proyecto y rellenar el calendario: 2 - Noelia Palomino y
 Creacion del driagrama de uso en la plataforma Visual Paradigm: 3 - Roberto Martínez - 11/11/25
 Creacion de isues: 4 - Roberto Martínez y Manuel Martin - 11/11/25
 Creacion del acta: 5 - Manuel Martin - 11/11/25
+
+
