@@ -15,12 +15,12 @@ Orden del Día:
 
 
 Responsables del proyecto: 
-- Noelia Palomino: Gestora del Proyecto 
-- Manuel Martín: Desarrollador principal 
-- Mariam Tamayo: Responsable técnica / Documentación 
-- Roberto Martínez: Ingeniero de pruebas / QA 
-- Carlos Soto: Diseñador de arquitectura
-- Lucía Solis: Coordinadora general / Responsable de comunicación con el profesor. (Ausente, informada del contenido de la reunión)
+-Lucía Solís: Coordinadora, gestora de requisitos y análisis. (Ausente, informada del contenido de la reunión)
+-Noelia Palomino: Responsable de calidad, gestora de requisítos y análisis.
+-Mariam Tamayo: Diseñadora e implementadora.
+-Carlos Soto: Diseñador e implementador.
+-Manuel Martín: Gestor de configuración/Tester.
+-Roberto Martínez: Soporte técnico/Tester. 
 
 
 Tareas de cada participante en el proyecto (Nº. Tarea - Responsable - Fecha límite):
